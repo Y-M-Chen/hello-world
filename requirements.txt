@@ -1,0 +1,2 @@
+pandas
+gtts SpeechRecognition pyaudio pygame pyttsx3
