@@ -1,2 +1,6 @@
 pandas
-gtts SpeechRecognition pyaudio pygame pyttsx3
+gtts 
+SpeechRecognition
+pyaudio
+pygame
+pyttsx3
